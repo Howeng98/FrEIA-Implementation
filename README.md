@@ -9,7 +9,14 @@ This is an extra example and tutorial about [FrEIA](https://github.com/VLL-HD/Fr
 
 Feel free to contact me if you encounter any problems in the code.
 
-### Documents
+## Graph-INN (refer to sequential.py)
+
+<p align="center">
+  <img src='imgs/inn_example_architecture.png'>
+</p>
+
+
+## Documents
 
 :link: https://vll-hd.github.io/FrEIA/_build/html/index.html
 
@@ -20,6 +27,6 @@ Feel free to contact me if you encounter any problems in the code.
 :link: [NICE](https://arxiv.org/abs/1410.8516)
 
 
-### Keywords
+## Keywords
 - Normalizing Flow
 - Invertible Neural Networks
